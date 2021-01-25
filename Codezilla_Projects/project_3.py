@@ -1,3 +1,5 @@
+"""In this project we are asking user to enter any text and we will check how many vowels in this text and how many times this vowel has repitated"""
+
 string = input ("Please enter any text: ")
 text = string.lower()
 
