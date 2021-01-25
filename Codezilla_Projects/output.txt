@@ -1,0 +1,8 @@
+program explanation
+
+1. user must enter a string and store it in a variable.
+2. the count variable is initialized to zero.
+3. the for loop is used to traverse through the characters in the string.
+4. an if statement checks if the character is a vowel or not.
+5. the count is incremented each time a vowel is encountered.
+6. the total count of vowels in the string is printed.
