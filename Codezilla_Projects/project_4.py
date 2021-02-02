@@ -1,5 +1,5 @@
-"""In this project we are asking taking text from file then change all strings to lowercase and output it to file
-then using the text in output file to check how many vowels in this text and how many times any vowel has repitated """
+#In this project we are asking taking text from file then change all strings to lowercase and output it to file
+#then using the text in output file to check how many vowels in this text and how many times any vowel has repitated
 
 infile = open('input.txt','r')
 outfile = open('output.txt','w')
